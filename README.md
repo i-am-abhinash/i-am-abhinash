@@ -1,315 +1,204 @@
 <div align="center">
 
-# 👋 Hi, I'm Gowri Abhinash
+# GOWRI ABHINASH
 
 ### AI/ML Engineering Student · Full-Stack Developer · AI Systems Builder
 
+<br>
+
 <p>
-I build intelligent applications that combine
-<strong>Artificial Intelligence, Machine Learning, Automation, and Full-Stack Development.</strong>
+Building intelligent software that connects
+<strong>AI · Machine Learning · Automation · Web Development</strong>
 </p>
 
 <br>
 
 <a href="https://github.com/i-am-abhinash">
-  <img src="https://img.shields.io/badge/GitHub-i--am--abhinash-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-i--am--abhinash-181717?style=for-the-badge&logo=github" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/gowri-abhinash-modugumudi-a7a1aa2b">
-  <img src="https://img.shields.io/badge/LinkedIn-Gowri%20Abhinash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-I'm an **AI/ML Engineering student and software developer** interested in
-building practical systems that solve real-world problems.
-
-My projects explore different areas of software and artificial intelligence,
-including:
-
-- 🤖 AI assistants and intelligent agents
-- 🧠 Machine learning and predictive systems
-- 📰 NLP and intelligent information processing
-- ⚙️ Desktop automation
-- 🌐 Full-stack application development
-- 📊 Data-driven applications
-- 🎙️ Voice-enabled systems
-
-I prefer learning by **building complete systems**, experimenting with ideas,
-and turning concepts into working software.
+<br>
 
 ---
-
-## 🚀 What I Build
 
 <div align="center">
 
-| 🤖 AI Systems | 🧠 Machine Learning | 🌐 Full Stack |
-|:---:|:---:|:---:|
-| AI Agents | Prediction Systems | React Applications |
-| AI Assistants | Data Analytics | FastAPI Backends |
-| Voice AI | Risk Analysis | API Integration |
-| Automation | NLP | Modern UI |
+## WHAT I BUILD
+
+🤖 **AI Systems** &nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 **Machine Learning** &nbsp;&nbsp; • &nbsp;&nbsp;
+⚙️ **Automation** &nbsp;&nbsp; • &nbsp;&nbsp;
+🌐 **Full-Stack Applications**
 
 </div>
 
 ---
 
-# ⭐ Featured Projects
+## 🚀 Featured Work
 
-These are the projects I currently consider the core of my GitHub portfolio.
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤖 JARVIS-Ai
+### 🤖 JARVIS-Ai
 
-### Adaptive Personal Desktop AI Assistant
+**Adaptive Personal Desktop AI Assistant**
 
-A desktop AI assistant combining conversational AI, persistent memory,
-voice interaction, desktop automation, context awareness, and proactive
-assistance.
+AI assistant exploring memory, voice interaction, context awareness, desktop automation, and proactive assistance.
 
-**Highlights**
+**Python · AI · Automation · Voice**
 
-- 🧠 Persistent memory
-- 💬 Conversational AI
-- 🎙️ Local voice interaction
-- 👁️ Context awareness
-- ⚙️ Desktop automation
-- 📁 File management
-- 🌐 Web actions
-- 💡 Proactive intelligence
+<br>
 
 <a href="https://github.com/i-am-abhinash/JARVIS-Ai">
-  <img src="https://img.shields.io/badge/View%20Project-JARVIS--Ai-181717?style=for-the-badge&logo=github" alt="View JARVIS-Ai">
+View Repository →
 </a>
 
----
+</td>
 
-## 🧠 ContextAI V3
+<td width="50%" valign="top">
 
-### Context-Aware AI System
+### 🎓 AcaDesk
 
-An AI-focused project exploring contextual understanding and intelligent
-interaction.
+**Student Risk Prediction System**
 
-The project represents my interest in building AI systems that work with
-more than isolated user prompts and instead incorporate surrounding context.
+Machine-learning application focused on academic analytics, student risk prediction, and early intervention.
 
-<a href="https://github.com/i-am-abhinash/ContextAI_V3">
-  <img src="https://img.shields.io/badge/View%20Project-ContextAI%20V3-181717?style=for-the-badge&logo=github" alt="View ContextAI V3">
-</a>
+**Python · ML · Scikit-learn · MySQL**
 
----
-
-## 🎓 AcaDesk
-
-### Student Risk Prediction & Academic Analytics System
-
-A machine-learning based academic analytics application designed to identify
-students who may be at academic risk.
-
-**Focus Areas**
-
-- 📊 Academic analytics
-- 🧠 Machine learning
-- 🚨 Risk prediction
-- 🗄️ Database integration
-- 📈 Performance analysis
-- 🤝 Intervention tracking
+<br>
 
 <a href="https://github.com/i-am-abhinash/AcaDesk-Student-Risk-Prediction-System">
-  <img src="https://img.shields.io/badge/View%20Project-AcaDesk-181717?style=for-the-badge&logo=github" alt="View AcaDesk">
+View Repository →
 </a>
 
----
+</td>
+</tr>
 
-## 📰 Smart News Digest
+<tr>
+<td width="50%" valign="top">
 
-### AI-Powered News Summarization Platform
+### 📰 Smart News Digest
 
-A full-stack application designed to transform online news into concise,
-categorized, and accessible information.
+**AI-Powered News Intelligence Platform**
 
-**Stack**
+Full-stack application for news retrieval, NLP summarization, categorization, and text-to-audio delivery.
 
-- ⚛️ React
-- 🔷 TypeScript
-- ⚡ Vite
-- 🐍 FastAPI
-- 🧠 NLP
-- 🔊 Text-to-Speech
+**React · TypeScript · FastAPI · NLP**
+
+<br>
 
 <a href="https://github.com/i-am-abhinash/Smart-news-Digest">
-  <img src="https://img.shields.io/badge/View%20Project-Smart%20News%20Digest-181717?style=for-the-badge&logo=github" alt="View Smart News Digest">
+View Repository →
 </a>
 
----
+</td>
 
-## 🌱 EcoLeauge
+<td width="50%" valign="top">
 
-### Environmental Technology Project
+### 🧠 ContextAI V3
 
-A project focused on applying software and technology toward environmental
-and sustainability-related challenges.
+**Context-Aware AI System**
 
-<a href="https://github.com/i-am-abhinash/EcoLeauge">
-  <img src="https://img.shields.io/badge/View%20Project-EcoLeauge-181717?style=for-the-badge&logo=github" alt="View EcoLeauge">
+An exploration of intelligent interaction through contextual information and AI-driven processing.
+
+**Python · AI · Intelligent Systems**
+
+<br>
+
+<a href="https://github.com/i-am-abhinash/ContextAI_V3">
+View Repository →
 </a>
 
----
+</td>
+</tr>
 
-## 🧪 GramAI
+<tr>
+<td width="50%" valign="top">
 
-### AI-Powered Application
+### 🧪 GramAI
 
-An AI-focused project exploring practical application of intelligent
-technologies and software development.
+**AI Application**
+
+An AI-focused project exploring practical intelligent application development and content processing.
+
+**Python · AI · NLP**
+
+<br>
 
 <a href="https://github.com/i-am-abhinash/GramAI">
-  <img src="https://img.shields.io/badge/View%20Project-GramAI-181717?style=for-the-badge&logo=github" alt="View GramAI">
+View Repository →
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌱 EcoLeauge
+
+**Environmental Technology Project**
+
+A technology-focused project exploring software solutions for environmental and sustainability challenges.
+
+**JavaScript · Sustainability · Technology**
+
+<br>
+
+<a href="https://github.com/i-am-abhinash/EcoLeauge">
+View Repository →
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Technology
 
 <div align="center">
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
 
 <br><br>
 
-### AI / ML
+### AI / Data
 
-<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning">
-<img src="https://img.shields.io/badge/NLP-8B5CF6?style=for-the-badge" alt="NLP">
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge" alt="Generative AI">
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy" />
 
 <br><br>
 
 ### Development
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-
-<br><br>
-
-### Data & Tools
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql,git,github" />
 
 </div>
 
 ---
 
-# 🧭 Current Direction
+## 🧠 Current Focus
 
-I'm currently focused on becoming stronger at building **end-to-end AI
-applications**.
-
-My areas of interest include:
+<div align="center">
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
+AI / ML
+   ↓
+Generative AI
+   ↓
 AI Agents & Intelligent Systems
-        ↓
+   ↓
 Automation
-        ↓
-Full-Stack Applications
-        ↓
-Real-World Problem Solving
-```
-
-The goal isn't simply to experiment with AI models.
-
-It's to understand how to turn AI capabilities into **usable software
-systems**.
-
----
-
-# 📚 What I'm Learning
-
-- 🧠 Machine Learning
-- 🤖 Generative AI
-- 🔗 AI Agents
-- 🗣️ Natural Language Processing
-- 🌐 Full-Stack Development
-- 🗄️ Databases
-- ⚙️ Software Architecture
-- 🧪 Testing & Engineering Practices
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-I build, experiment, and iterate through real-world projects.
-
-<br><br>
-
-<a href="https://github.com/i-am-abhinash?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories">
-</a>
-
-</div>
-
----
-
-# 🎯 My Approach
-
-<div align="center">
-
-### Learn → Build → Break → Improve → Repeat
-
-</div>
-
-I believe the fastest way to understand a technology is to build something
-with it.
-
-That means my repositories are not just collections of tutorials or isolated
-experiments—they are part of an ongoing process of learning how to design,
-implement, debug, and improve software systems.
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/i-am-abhinash">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/gowri-abhinash-modugumudi-a7a1aa2b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Building intelligent systems, one project at a time. 🚀
-
-</div>
+   ↓
+Full-Stack AI Applications
