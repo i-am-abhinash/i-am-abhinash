@@ -1,45 +1,31 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Gowri Abhinash - AI/ML Engineering Student and Full-Stack Developer">
-
-</div>
-<div align="center">
-
-# GOWRI ABHINASH
-
-### AI/ML Engineering Student · AI Systems Builder
-
-<br>
-
-<p>
-Building intelligent software that connects
-<strong>AI · Machine Learning · Automation · Web Development</strong>
-</p>
-
-<br>
-
-<a href="https://github.com/i-am-abhinash">
-<img src="https://img.shields.io/badge/GitHub-i--am--abhinash-181717?style=for-the-badge&logo=github" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/gowri-abhinash-modugumudi-a7a1aa2b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="./assets/profile-banner.png" width="100%" alt="Gowri Abhinash">
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-## WHAT I BUILD
+## 👋 About Me
 
-🤖 **AI Systems** &nbsp;&nbsp; • &nbsp;&nbsp;
-🧠 **Machine Learning** &nbsp;&nbsp; • &nbsp;&nbsp;
-⚙️ **Automation** &nbsp;&nbsp; • &nbsp;&nbsp;
-🌐 **Full-Stack Applications**
+I’m an AI/ML engineering student who enjoys turning ideas into
+<strong>working software systems</strong>.
+
+I build projects around <strong>AI, machine learning, intelligent automation,
+and full-stack applications</strong> — learning by experimenting,
+building, breaking, and improving.
+
+<br>
+
+<strong>AI & ML</strong>
+&nbsp; • &nbsp;
+<strong>Intelligent Systems</strong>
+&nbsp; • &nbsp;
+<strong>Automation</strong>
+&nbsp; • &nbsp;
+<strong>Software Engineering</strong>
 
 </div>
 
@@ -51,15 +37,17 @@ Building intelligent software that connects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 JARVIS-Ai
 
 **Adaptive Personal Desktop AI Assistant**
 
-AI assistant exploring memory, voice interaction, context awareness, desktop automation, and proactive assistance.
+AI assistant exploring memory, voice interaction, context awareness,
+desktop automation, and proactive assistance.
 
-**Python · AI · Automation · Voice**
+`Python` · `AI` · `Automation` · `Voice`
 
 <br>
 
@@ -71,13 +59,14 @@ View Repository →
 
 <td width="50%" valign="top">
 
-### 🎓 AcaDesk
+### 🎓 AcaDesk-Student-Risk-Prediction-System
 
 **Student Risk Prediction System**
 
-Machine-learning application focused on academic analytics, student risk prediction, and early intervention.
+Machine-learning application focused on academic analytics,
+student risk prediction, and early intervention.
 
-**Python · ML · Scikit-learn · MySQL**
+`Python` · `Machine Learning` · `Scikit-learn` · `MySQL`
 
 <br>
 
@@ -86,18 +75,21 @@ View Repository →
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-### 📰 Smart News Digest
+### 📰 Smart-news-Digest
 
 **AI-Powered News Intelligence Platform**
 
-Full-stack application for news retrieval, NLP summarization, categorization, and text-to-audio delivery.
+Full-stack application for news retrieval, NLP summarization,
+categorization, and text-to-audio delivery.
 
-**React · TypeScript · FastAPI · NLP**
+`React` · `TypeScript` · `FastAPI` · `NLP`
 
 <br>
 
@@ -109,13 +101,14 @@ View Repository →
 
 <td width="50%" valign="top">
 
-### 🧠 ContextAI V3
+### 🧠 ContextAI_V3
 
 **Context-Aware AI System**
 
-An exploration of intelligent interaction through contextual information and AI-driven processing.
+An exploration of intelligent interaction through contextual
+information and AI-driven processing.
 
-**Python · AI · Intelligent Systems**
+`Python` · `AI` · `Intelligent Systems`
 
 <br>
 
@@ -124,18 +117,21 @@ View Repository →
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧪 GramAI
 
 **AI Application**
 
-An AI-focused project exploring practical intelligent application development and content processing.
+An AI-focused project exploring practical intelligent application
+development and content processing.
 
-**Python · AI · NLP**
+`Python` · `AI` · `NLP`
 
 <br>
 
@@ -151,9 +147,10 @@ View Repository →
 
 **Environmental Technology Project**
 
-A technology-focused project exploring software solutions for environmental and sustainability challenges.
+A technology-focused project exploring software solutions
+for environmental and sustainability challenges.
 
-**JavaScript · Sustainability · Technology**
+`JavaScript` · `Sustainability` · `Technology`
 
 <br>
 
@@ -162,6 +159,7 @@ View Repository →
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -173,21 +171,16 @@ View Repository →
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,react,nodejs,fastapi,mysql,git,github" alt="Technology Stack">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+</div>
 
-<br><br>
+<br>
 
-### AI / Data
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,pandas,numpy" />
-
-<br><br>
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mysql,git,github" />
+**AI / ML** · **Generative AI** · **NLP** · **Automation** ·
+**Full-Stack Development** · **Software Engineering**
 
 </div>
 
@@ -197,13 +190,61 @@ View Repository →
 
 <div align="center">
 
-```text
-AI / ML
-   ↓
-Generative AI
-   ↓
-AI Agents & Intelligent Systems
-   ↓
-Automation
-   ↓
-Full-Stack AI Applications
+**AI / ML**
+&nbsp; → &nbsp;
+**Generative AI**
+&nbsp; → &nbsp;
+**AI Agents**
+&nbsp; → &nbsp;
+**Intelligent Systems**
+&nbsp; → &nbsp;
+**Automation**
+&nbsp; → &nbsp;
+**Full-Stack AI**
+
+</div>
+
+<br>
+
+I’m focused on turning AI capabilities into
+<strong>complete, usable software systems</strong>
+rather than isolated experiments.
+
+---
+
+## 💡 How I Build
+
+<div align="center">
+
+### Learn → Build → Break → Improve → Repeat
+
+<br>
+
+I learn primarily by building projects, experimenting with ideas,
+solving problems, and improving systems through iteration.
+
+</div>
+
+---
+
+<div align="center">
+
+## 📌 Explore My Work
+
+<br>
+
+<a href="https://github.com/i-am-abhinash?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-181717?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
+
+<br><br>
+
+<a href="https://github.com/i-am-abhinash">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+
+### Building intelligent systems, one project at a time. 🚀
+
+</div>
