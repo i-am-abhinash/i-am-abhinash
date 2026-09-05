@@ -263,7 +263,13 @@ systems**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-am-abhinash&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
+I build, experiment, and iterate through real-world projects.
+
+<br><br>
+
+<a href="https://github.com/i-am-abhinash?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories">
+</a>
 
 </div>
 
