@@ -1,18 +1,22 @@
-# Hi, I'm Gowri Abhinash 👋
+<div align="center">
+
+# 👋 Hi, I'm Gowri Abhinash
 
 ### AI/ML Engineering Student & Software Developer
 
-I build intelligent systems and practical software applications, with a focus on Artificial Intelligence, Machine Learning, and solving real-world problems through technology.
+Building intelligent systems and practical AI-powered applications.
+
+</div>
 
 ---
 
 ## 🧠 What I Build
 
-* 🤖 **AI & Machine Learning Applications**
-* 🧩 **Intelligent Systems & Automation**
-* 🖥️ **Desktop & Software Applications**
-* 📊 **Data-driven Solutions**
-* 🌍 **Technology for Real-world Problems**
+* 🤖 AI & Machine Learning Applications
+* 🧩 Intelligent Systems & Automation
+* 🖥️ Desktop & Software Applications
+* 📊 Data-driven Solutions
+* 🌍 Technology for Real-world Problems
 
 ---
 
@@ -20,11 +24,11 @@ I build intelligent systems and practical software applications, with a focus on
 
 ### 🎓 AcaDesk — Student Risk Prediction System
 
-A machine-learning application designed to identify students who may be at academic risk and provide data-driven insights for educators.
+A machine-learning application for identifying students who may be at academic risk and providing data-driven insights.
 
 **Python · Machine Learning · PyQt5 · MySQL**
 
-[View Repository](https://github.com/i-am-abhinash/AcaDesk-Student-Risk-Prediction-System)
+[View Repository →](https://github.com/i-am-abhinash/AcaDesk-Student-Risk-Prediction-System)
 
 ---
 
@@ -34,7 +38,7 @@ An AI-powered personal desktop assistant focused on intelligent interaction, aut
 
 **Python · AI · Automation · Desktop Applications**
 
-[View Repository](https://github.com/i-am-abhinash/JARVIS-Ai)
+[View Repository →](https://github.com/i-am-abhinash/JARVIS-Ai)
 
 ---
 
@@ -44,27 +48,27 @@ An AI-oriented application designed around accessible technology and assistance 
 
 **Python · PyQt6 · AI · Voice Interaction**
 
-[View Repository](https://github.com/i-am-abhinash/GramAI)
+[View Repository →](https://github.com/i-am-abhinash/GramAI)
 
 ---
 
 ### 📰 Smart News Digest
 
-An intelligent news application that extracts, categorizes, summarizes, and processes news content.
+An intelligent news application for extracting, categorizing, summarizing, and processing news content.
 
 **AI · NLP · TypeScript**
 
-[View Repository](https://github.com/i-am-abhinash/Smart-news-Digest)
+[View Repository →](https://github.com/i-am-abhinash/Smart-news-Digest)
 
 ---
 
 ### 🖼️ Unified Image Analysis System
 
-A computer-vision application bringing multiple image analysis capabilities together into a single interface.
+A computer-vision application bringing multiple image analysis capabilities together in a single interface.
 
 **Python · Computer Vision · PyQt5 · Machine Learning**
 
-[View Repository](https://github.com/i-am-abhinash/Unified-Image-Analysis-System)
+[View Repository →](https://github.com/i-am-abhinash/Unified-Image-Analysis-System)
 
 ---
 
@@ -74,7 +78,7 @@ A gamified environmental education platform designed to encourage learning and e
 
 **Web Development · Gamification · Education**
 
-[View Repository](https://github.com/i-am-abhinash/EcoLeauge)
+[View Repository →](https://github.com/i-am-abhinash/EcoLeauge)
 
 ---
 
@@ -104,16 +108,20 @@ A gamified environmental education platform designed to encourage learning and e
 * Building production-ready AI applications
 * Full-Stack Development
 * Intelligent automation systems
-* Improving software architecture and system design
+* Software architecture & system design
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/gowri-abhinash-modugumudi-a7a1aa2b1/
+* 💼 **LinkedIn:**  https://www.linkedin.com/in/gowri-abhinash-modugumudi-a7a1aa2b1/
 * 🌐 **Portfolio:** https://i-am-abhinash.github.io/Portfolio/
 * 📧 **Email:** gowriabhinash1919@gmail.com
 
 ---
 
+<div align="center">
+
 ⭐ Feel free to explore my repositories and projects.
+
+</div>
