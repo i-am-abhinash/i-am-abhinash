@@ -265,10 +265,6 @@ systems**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=i-am-abhinash&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats">
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-abhinash&layout=compact&hide_border=true" alt="Top Languages">
-
 </div>
 
 ---
