@@ -1,8 +1,13 @@
 <div align="center">
 
+<img src="./assets/profile-banner.png" width="100%" alt="Gowri Abhinash - AI/ML Engineering Student and Full-Stack Developer">
+
+</div>
+<div align="center">
+
 # GOWRI ABHINASH
 
-### AI/ML Engineering Student · Full-Stack Developer · AI Systems Builder
+### AI/ML Engineering Student · AI Systems Builder
 
 <br>
 
